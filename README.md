@@ -1,9 +1,9 @@
 # Vic-20-Mini-Synth
-VIC-20 MINI SYNTH V.B.1.0
-BY RYAN LISTON 
-INCLUDING VIZNUTS PWP WAVEFORM ROUTINE
-WRITTEN IN BASIC AND ASSEMBLY
-COMPILED WITH MOSPEED
+VIC-20 MINI SYNTH V.B.1.0,
+BY RYAN LISTON,
+INCLUDING VIZNUTS PWP WAVEFORM ROUTINE,
+WRITTEN IN BASIC AND ASSEMBLY,
+COMPILED WITH MOSPEED,
 AUGUST 11, 2021
 
 A simple monophonic synth application for the Commodore Vic-20 with 24k expanion.
@@ -37,6 +37,8 @@ Bugs:
 -The compiled file seems to large. The uncompiled file works with 8k but 
         the compiled file requires the full 24k expasion to run. 
                 (...will file an issue with mospeed)
+-sustain holding when set to 255 not working
+-release holding when set to 255 not working
 
 Todo:
 -pal and ntsc versions or options
